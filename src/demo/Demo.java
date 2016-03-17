@@ -21,7 +21,7 @@ public class Demo {
         b=8;
         System.out.println("a:" +a);
         System.out.println("b:" +b);
-        System.out.println(":D XD ._. .-.");
+        System.out.println(":hhh XD ._. .-.");
     }
     
 }
