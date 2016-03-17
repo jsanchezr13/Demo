@@ -16,6 +16,11 @@ public class Demo {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
+        int a,b;
+        a=7;
+        b=8;
+        System.out.println("a:" +a);
+        System.out.println("b:" +b);
     }
     
 }
